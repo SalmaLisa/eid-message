@@ -1,0 +1,27 @@
+
+.eid-message{
+  width: 400px;
+  height: autox;
+  border: 50px solid ;
+  margin:100px auto;
+  padding:10px;
+  text-align: center;
+  border-image-source: url(images/122.jpg);
+  border-image-slice: 50;
+  border-image-repeat: round;
+
+}
+h1{
+  font-family: 'Tangerine', cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  color: rgb(148, 12, 153);
+}
+p{
+  width: 70%;
+  margin: auto;
+  font-family: 'Tangerine', cursive;
+  font-size:30px;
+  margin-bottom:30px;
+  color: rgb(187, 9, 128);
+}
